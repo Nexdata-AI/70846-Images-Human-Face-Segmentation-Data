@@ -20,6 +20,6 @@ Data format: the image data is in .jpg or .png format, the annotation file is in
 ## Annotation content
 segmentation annotation of human face, the five sense organs, body and appendages
 ## Accuracy
-the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a
+the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; the annotation part (id) is regarded as the unit, the accuracy rate of segmentation annotation shall be more than 97%
 # Licensing Information
 Commercial License
