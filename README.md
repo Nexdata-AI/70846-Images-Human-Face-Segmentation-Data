@@ -3,7 +3,7 @@
 ## Description
 Human Face Segmentation Data from 70,846 Images. Pure color backgrounds, interior and exterior scene types are all included in the data. Both males and females are included in the data. Asian, Black, and Caucasian races are represented in the race distribution. The age ranges from young children to elderly people. Simple and complex facial expressions can be found in the data (large-angle tilt of face, closing eye, glower, pucker, opening mouth, etc.). We used pixel-by-pixel segmentation annotations to annotate the human face, the five sense organs, the body, and appendages. The information can be applied to tasks like facial Recon Related Tasks
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/945?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/945?source=Github
 
 
 # Specifications
